@@ -1,0 +1,9 @@
+Slec ted edges on the basis of the weight
+1 3 -> 2
+0 2 -> 5
+0 1 -> 10
+Edges on the basis of the smalles node
+0 1 -> 10
+0 2 -> 5
+1 3 -> 2
+MST answer: 17

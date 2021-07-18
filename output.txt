@@ -1,0 +1,3 @@
+Starting City: c->bwith a distance of 40,awith a distance of 100,
+Starting City: b->awith a distance of 20,cwith a distance of 40,
+Starting City: a->bwith a distance of 20,

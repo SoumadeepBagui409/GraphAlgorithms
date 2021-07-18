@@ -1,0 +1,2 @@
+From 1 to 2 distance is: 3
+From 1 to 3 distance is: -10
